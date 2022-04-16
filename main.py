@@ -21,4 +21,4 @@ for x in range(1, int(total_bullets) + 1):
             os.execv(sys.executable, [sys.executable] + sys.argv)
         else:
             break
-    print("You're LUCKY'\n \n -----")
+    print("You're LUCKY\n \n -----")
